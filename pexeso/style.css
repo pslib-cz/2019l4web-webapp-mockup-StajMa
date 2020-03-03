@@ -1,0 +1,45 @@
+#shoda {
+    font-size: 5rem;
+    color: green;
+}
+
+.board > .card {
+    display: inline-block;
+    position: relative;
+    margin: 15px;
+    width: 200px;
+    height: 200px;
+}
+
+header p {
+    font-size: 5em;
+    text-align: center;
+}
+
+body {
+    background-color:  rgb(252, 160, 117);
+}
+
+.board {
+    border: solid 2px black;
+    background-color: rgb(255, 218, 96);
+}
+
+.card > .lic, .card > .rub {
+    position: absolute;
+    width: 75%;
+    height: 75%;
+    backface-visibility: hidden;
+    transition: all .5s linear;
+}
+
+.board > .active > .rub, .card > .lic {
+    transform: rotateY(180deg);
+
+}
+
+.board > .active > .lic, .card > .rub {
+    transform: rotateY(0deg);
+
+}
+
