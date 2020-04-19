@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="PVY_logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="846.33723"
+     inkscape:cy="1078.6956"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#feffff;fill-opacity:1;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1428"
+       width="386.151"
+       height="370.43555"
+       x="-90.550911"
+       y="-40.882126" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4668"
+       style="font-style:normal;font-weight:normal;font-size:53.33333588px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4670"
+         style="font-size:53.33333588px"><rect
+           id="rect4672"
+           width="128.33986"
+           height="127.63276"
+           x="292.74222"
+           y="307.22556"
+           style="font-size:53.33333588px" /></flowRegion><flowPara
+         id="flowPara4674"
+         style="font-size:53.33333588px">E=mc²E=mc²</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.7806735;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5272"
+       width="144.23199"
+       height="182.7917"
+       x="32.996559"
+       y="59.580677" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.24880314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 32.859398,213.87691 H 176.79447"
+       id="path5274"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.88795447;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path5276"
+       cx="106.37222"
+       cy="227.12248"
+       r="9.7134085" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.88795447;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5278"
+       width="9.3660212"
+       height="145.32948"
+       x="178.01144"
+       y="82.996277" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.2588706px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 187.70956,82.191378 -2.28575,-10.515684 c -1.90565,-3.662958 -3.17742,-2.345265 -4.31841,0 l -2.91345,10.515684"
+       id="path5282"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.24880314px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 182.22618,228.01353 c 1.09341,11.29918 9.04217,26.273 -0.4413,33.40549 -7.82514,5.82412 -14.90311,3.88366 -18.76672,-0.93823 -5.1488,-9.07392 -2.25594,-12.5432 -0.77266,-18.10602"
+       id="path5288"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
